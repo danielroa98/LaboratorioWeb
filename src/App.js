@@ -21,26 +21,6 @@ import MailIcon from '@mui/icons-material/Mail';
 
 import Login from './pages/Login';
 import SignUp from './pages/signup';
-/* 
-export default function App() {
-  return (
-    <Router>
-      <ul>
-        <li>
-          <Link to="/login">Login</Link>
-        </li>
-        <li>
-          <Link to="/signup">Signup</Link>
-        </li>
-      </ul>
-      <Switch>
-        <Route path={"/login"}>Login Page</Route>
-        <Route path={"/signup"}>Signup Page</Route>
-      </Switch>
-    </Router>
-  );
-}
- */
 
 const drawerWidth = 240;
 
